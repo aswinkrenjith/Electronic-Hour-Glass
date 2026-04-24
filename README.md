@@ -30,10 +30,15 @@ Align the **notch** on the chip with the notch marking on the PCB (U1). If you h
 ### 4. Quality Control
 Before plugging it in, check the back for **solder bridges** (blobs of solder touching two pins that shouldn't be connected). 
 
+
+## 5. Troubleshooting Tips
+
+* **Half the Hourglass is dark?** Check the orientation of the LEDs in that section. A single backward LED can sometimes break a series string.
+* **Won't Power On?** Check your 5V source. These kits are specifically designed for 5V; using a 9V or 12V adapter **will** damage the microcontroller.
+* **Intermittent Flickering:** Re-flow the solder joints on the IC socket pins and the power jack.
+
 ---
-
-
-Operation
+## Operation
 1. Connect a **5V DC** power source.
 2. Flip **S1** to ON.
 3. Use **S2** to cycle through the different speed modes or reset the timer.
