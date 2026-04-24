@@ -16,7 +16,7 @@ The Electronic Hourglass is a DIY electronics project that replaces physical san
 
 ---
 
-## 🛠 How I Made It
+## 🛠 How I Made It 🏁
 
 1.  **LED Matrix Assembly:** Soldered **57 LEDs** into the board. I had to be careful with orientation—the longer leg (Anode) goes into the square pad marked `+`.
 2.  **The Brain:** Installed the microcontroller (U1) into its socket.
@@ -33,10 +33,10 @@ The Electronic Hourglass is a DIY electronics project that replaces physical san
 | **LEDs** | 57 | Clear LEDs (The "Sand" particles) |
 | **Microcontroller** | 1 | Pre-programmed stock chip |
 | **S1 Switch** | 1 | Slide switch (ON/OFF) |
-| **S2 Switch** | 1 | Tactile push button (Reset/Speed) |
+| **S2 Switch** | 1 | push button  |
 | **DC-Jack** | 1 | 5V DC Power Socket |
-| **Header Pins** | 1 set | Male ISP pins (For structural completeness) |
-| **PCB** | 1 | YH-106 Circuit Board |
+| **Header Pins** | 1 set | Male ISP pins (For programming) |
+| **PCB** | 1 |  Printed Circuit Board |
 
 ---
 
@@ -55,6 +55,6 @@ While I kept my build **100% stock**, this board is designed with flexibility in
 
 ---
 
-## ⚠️ Troubleshooting Tips
+## ⚠️ Troubleshooting Tips ⚠️
 * **Dark LEDs:** If a section of "sand" isn't lighting up, double-check the polarity of the LEDs in that area.
 * **Power Warning:** Only use **5V**. Using a 9V or 12V adapter will damage the stock microcontroller.
