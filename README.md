@@ -55,6 +55,6 @@ While I kept my build **100% stock**, this board is designed with flexibility in
 
 ---
 
-## ⚠️ Troubleshooting Tips ⚠️
+## ⚠️ Troubleshooting Tips 
 * **Dark LEDs:** If a section of "sand" isn't lighting up, double-check the polarity of the LEDs in that area.
 * **Power Warning:** Only use **5V**. Using a 9V or 12V adapter will damage the stock microcontroller.
